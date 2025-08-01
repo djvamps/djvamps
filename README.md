@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="http://pengrafic.epizy.com/pengrafic_djvamps_github_2025.jpg" align="center" alt="Pengrafic">
+<img src="https://www.facebook.com/photo.php?fbid=1190843273049714&set=pb.100063721563734.-2207520000&type=3" align="center" alt="Pengrafic">
 
 <!--
 **djvamps/djvamps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
